@@ -24,10 +24,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/playlist?list=PLfEY5bveu67kdAZVc_Vs7VPOAciMF1AuD'
 title: El Poder de las Preguntas - YouTube
-datePublished: '2016-07-05T18:44:46.566Z'
-dateModified: '2016-07-05T18:40:27.254Z'
-starred: false
+datePublished: '2016-07-05T19:10:33.647Z'
+dateModified: '2016-07-05T19:10:33.359Z'
 sourcePath: _posts/2016-07-05-el-poder-de-las-preguntas-youtube.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
