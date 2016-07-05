@@ -1,16 +1,16 @@
-typography_spectrum: 0.21527481568045914
+typography_spectrum: 0.5529281636700034
 color:
-  brandStrength: 0.5061967370565981
-  lightness: 0.7563028179574758
-  saturation: 0.2621586509048939
-  rhythmicContrast: 0.7003801874816418
+  brandStrength: 0.25324711692519486
+  lightness: 0.9767078887671232
+  saturation: 0.9675813876092434
+  rhythmicContrast: 0.6472740003373474
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
-layout_spectrum: 0.6184238193091005
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.5491173618938774
 author:
   name: Joel Cobos
   email: info@joelcobos.com
