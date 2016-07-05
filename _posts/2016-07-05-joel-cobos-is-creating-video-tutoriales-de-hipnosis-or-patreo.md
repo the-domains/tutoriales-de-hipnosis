@@ -14,11 +14,11 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.patreon.com/joelcoboshipnosis'
 title: Joel Cobos is creating vídeo-tutoriales de hipnosis | Patreon
-datePublished: '2016-07-05T19:13:05.367Z'
-dateModified: '2016-07-05T19:12:54.279Z'
-starred: false
+datePublished: '2016-07-05T19:13:23.270Z'
+dateModified: '2016-07-05T19:13:22.875Z'
 sourcePath: >-
   _posts/2016-07-05-joel-cobos-is-creating-video-tutoriales-de-hipnosis-or-patreo.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
