@@ -27,11 +27,11 @@ isBasedOnUrl: 'https://www.youtube.com/playlist?list=PLfEY5bveu67l0Fn0xwDmsh1Bgb
 title: >-
   CURSO DE HIPNOSIS GRATIS - Aprende a hipnotizar con TutorialesdeHipnosis.com -
   YouTube
-datePublished: '2016-07-05T19:10:39.979Z'
-dateModified: '2016-07-05T19:10:39.438Z'
+datePublished: '2016-07-05T19:10:47.623Z'
+dateModified: '2016-07-05T19:10:47.164Z'
 sourcePath: >-
   _posts/2016-07-05-curso-de-hipnosis-gratis-aprende-a-hipnotizar-con-tutorial.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
