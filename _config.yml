@@ -18,5 +18,9 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d7516f9-dbf2-48cc-8303-ec3fe44ddb64.jpg
 name: Tutoriales de Hipnosis
+navigation:
+  - name: Canal de Youtube
+    url: 'https://www.youtube.com/joelcoboshipnosis'
+    type: external
 title: Tutoriales de Hipnosis
 description: Aprende a hipnotizar gratis
